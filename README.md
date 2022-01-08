@@ -15,7 +15,7 @@ I am passionate about solving real-world problems with engineering, data, scienc
 
 I currently lead the development of <a href="https://www.nearmap.com">Nearmap's</a> AI model production system that produces high-quality AI data sets and deep learning models. 
   
-Ocasationally I blog [@github](https://suneeta-mall.github.io/)
+I author for [O'Reilly](https://www.oreilly.com/pub/au/8214) and [Towards data science blogs](https://medium.com/@suneetamall). Ocasationally I also blog [@github](https://suneeta-mall.github.io/). 
 </p>
 
 

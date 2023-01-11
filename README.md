@@ -13,7 +13,7 @@
 <p>
 I am passionate about solving real-world problems with engineering, data, science, and machine learning. I hold a Ph.D. in applied science and have a computer science engineering background. I offer extensive distributed, scalable computing and machine learning experience from IBM Software Labs, Expedita, USyd, and Nearmap. 
 
-I currently lead the development of <a href="https://www.nearmap.com">Nearmap's</a> AI model production system that produces high-quality AI data sets and deep learning models. 
+I currently lead <a href="https://harrison.ai/">Harrison AI's</a> AI Engineering division that produces comprehensive AI-driven products. 
   
 I author for [O'Reilly](https://www.oreilly.com/pub/au/8214) and [Towards data science blogs](https://medium.com/@suneetamall). Ocasationally I also blog [@github](https://suneeta-mall.github.io/). 
 </p>
